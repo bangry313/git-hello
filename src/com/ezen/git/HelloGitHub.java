@@ -7,5 +7,6 @@ public class HelloGitHub {
         // 집에서 과제 수행
         System.out.println("33333333333333");
         System.out.println("4444444444444444");
+        System.out.println("추가적인 작업 수행....");
     }
 }
